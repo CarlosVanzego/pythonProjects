@@ -18,7 +18,7 @@ if should_we_play == "y" or should_we_play == "yes":
       print("You got eaten by a shark! Game over.")
     elif choice == "swim" and weapon == "sword":
        print("You killed the shark! You win!")
-    if choice == "Cross":
+    if choice == "cross":
       print("Congrats! You won the game!")  
   else:
     print("Sorry not a valid reply, you lose!")
