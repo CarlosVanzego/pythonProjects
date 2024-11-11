@@ -57,3 +57,11 @@ not (should_we_play == "y" or should_we_play == "yes")
 # if should_we_play != "yes":
 # elif should_we_play == "YES":
 #   print("WE ARE GONNA PLAY")
+
+# Arithmetic operators 
+# /
+# *
+# +
+# -
+# %
+# ** 
