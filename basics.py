@@ -65,3 +65,20 @@ not (should_we_play == "y" or should_we_play == "yes")
 # -
 # %
 # ** 
+
+# while Loop
+# while condition:
+#      then this happens
+
+
+#  Infitite loop
+i = 0
+while True:
+     print(i)
+     i += 2
+     continue
+     print("run")
+
+
+# Functions
+def 
