@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": [
+        "Oxygen",
+        "Gold",
+        "Osmium",
+        "Oxide"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Mark Twain",
+        "Jane Austen",
+        "Charles Dickens"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Which gas do plants primarily use during photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which programming language is known for its snake mascot?",
+      "options": [
+        "Java",
+        "Python",
+        "Ruby",
+        "C++"
+      ],
+      "answer": "Python"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "options": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
+      "answer": "100°C"
+    },
+    {
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": [
+        "Charles Babbage",
+        "Alan Turing",
+        "John von Neumann",
+        "Blaise Pascal"
+      ],
+      "answer": "Charles Babbage"
+    }
+  ]
+}
